@@ -1,18 +1,24 @@
-## Welcome to GitHub Pages
+## Scoremaster
 
-You can use the [editor on GitHub](https://github.com/cheng08032005Strange/Score-system/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Scoremaster" can help you easily input and download the scores.
+Now it can only offer service for Class 2 Grade 8 in CFS.
 
-### Markdown
+Here to download the program [Click](https://github.com/cheng08032005Strange/Score-system/raw/master/Scoremaster%20v2.0.rar).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
+
+
+
+
+
+
 
 ### Jekyll Themes
 
