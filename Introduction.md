@@ -1,4 +1,4 @@
-## Scoremaster
+# Scoremaster
 
 ### Introduction
 
