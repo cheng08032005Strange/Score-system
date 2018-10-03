@@ -1,5 +1,3 @@
-theme: jekyll-theme-time-machine
-
 # Scoremaster
 
 ### Introduction
